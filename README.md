@@ -4,7 +4,3 @@ HEYO!
 - 💬 Hmmmmmm no response
 - 📫 How to reach me: You can't or just don't
 - ⚡ Fun fact: I like sharks
-
-<!--
-**ThatTiredRock/ThatTiredRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
